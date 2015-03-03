@@ -1,4 +1,6 @@
 package Bio::Tradis::Analysis::InsertSite;
+
+
 # ABSTRACT: Take in a bam file and plot the start position of each read
 =head1 NAME
 
